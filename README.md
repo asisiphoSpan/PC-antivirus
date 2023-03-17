@@ -1,6 +1,14 @@
 # PC-antivirus
 All-in-one antivirus for PC windows
 
+To download new version:
+copy the link and paste on browser: https://www.reddit.com/r/TronScript/
+click on the pinned comment at the top to expand,
+scroll down until you see the download links and choose the http link, and then choose the .exe file link.
+
+This is how you run the program after installation:
+https://youtu.be/CHtZ9-9ch2w
+
 | NAME       | Tron, an automated PC cleanup script                                                        |
 | :--------- | :------------------------------------------------------------------------------------------ |
 | AUTHOR     | vocatus on [old.reddit.com/r/TronScript](https://old.reddit.com/r/tronscript) (`vocatus.gate@gmail`) // PGP: [0x07d1490f82a211a2](http://pool.sks-keyservers.net:11371/pks/lookup?op=get&search=0x07D1490F82A211A2) |
